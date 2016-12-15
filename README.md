@@ -1,4 +1,4 @@
-# public-demo-bot
+# Wizy Public Chatbot
 <img src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
 
 # Google Cloud Platform Node.js Samples [![Slack][slack_badge]][slack_link] [![Build][build_badge]][build_link] [![Coverage][cov_badge]][cov_link]
